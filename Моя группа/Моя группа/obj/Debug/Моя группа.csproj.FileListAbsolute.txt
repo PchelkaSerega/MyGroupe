@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Моя группа\Моя группа\bin\Debug\Моя группа.exe.config
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Моя группа\Моя группа\bin\Debug\Моя группа.exe
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Моя группа\Моя группа\bin\Debug\Моя группа.pdb
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Моя группа\Моя группа\obj\Debug\Моя группа.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Моя группа\Моя группа\obj\Debug\Моя_группа.Form1.resources
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Моя группа\Моя группа\obj\Debug\Моя_группа.Properties.Resources.resources
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Моя группа\Моя группа\obj\Debug\Моя группа.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Моя группа\Моя группа\obj\Debug\Моя группа.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Моя группа\Моя группа\obj\Debug\Моя группа.exe
+C:\Users\User\Desktop\Программы С#\Задачи на WindowsForm\Моя группа\Моя группа\obj\Debug\Моя группа.pdb
